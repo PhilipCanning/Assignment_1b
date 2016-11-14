@@ -1,0 +1,7 @@
+﻿  Question 1b.cpp
+c:\users\philip\documents\github\assignment_1b\question 1b\question 1b\question 1b\question 1b.cpp(37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\philip\documents\github\assignment_1b\question 1b\question 1b\question 1b\question 1b.cpp(18): warning C4101: 'choice2': unreferenced local variable
+c:\users\philip\documents\github\assignment_1b\question 1b\question 1b\question 1b\question 1b.cpp(18): warning C4101: 'choice4': unreferenced local variable
+c:\users\philip\documents\github\assignment_1b\question 1b\question 1b\question 1b\question 1b.cpp(18): warning C4101: 'choice3': unreferenced local variable
+  Question 1b.vcxproj -> C:\Users\Philip\Documents\GitHub\Assignment_1b\Question 1b\Question 1b\Debug\Question 1b.exe
+  Question 1b.vcxproj -> C:\Users\Philip\Documents\GitHub\Assignment_1b\Question 1b\Question 1b\Debug\Question 1b.pdb (Full PDB)
